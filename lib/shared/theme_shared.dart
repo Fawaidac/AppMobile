@@ -14,3 +14,5 @@ TextStyle appTextStyle = GoogleFonts.inter(
     fontSize: 36, color: darkgreenColor, fontWeight: FontWeight.w700);
 TextStyle whiteTextStyle = GoogleFonts.nunito(
     fontSize: 14, color: whiteColor, fontWeight: FontWeight.w500);
+TextStyle blackTextStyle = GoogleFonts.nunito(
+    fontSize: 14, color: blackColor, fontWeight: FontWeight.w500);
